@@ -1,4 +1,4 @@
-# FinSight Lanka — Customer Analytics & Portfolio Risk Assessment
+# FinSight Lanka - Customer Analytics & Portfolio Risk Assessment
 
 # Predictive Analytics & Risk Management for FinSight Lanka
 
